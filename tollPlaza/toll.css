@@ -1,0 +1,29 @@
+body{
+    background: rgba(184, 149, 149, 0.329);
+}
+
+ ul{
+    list-style: none;
+    /* margin:20px; */
+    /* padding:5px; */
+    background: rgba(191, 121, 121, 0.599);
+    text-align: center;
+    font-size: 25px;
+    
+}
+a{
+    display: inline-block;
+    text-align: center;
+
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
